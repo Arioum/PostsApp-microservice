@@ -1,5 +1,5 @@
-import PostCreate from "./components/PostCreate";
-import PostList from "./components/PostList";
+import PostCreate from "./PostCreate";
+import PostList from "./PostList";
 import "./App.css";
 
 const App = () => {
